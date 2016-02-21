@@ -19,6 +19,7 @@ public class Main {    /**
 		System.out.println("Donde estoy cambiando esto? en el branch o en el Master?");
 		System.out.println("Creo que estoy en el Branch ahora"); 
 		System.out.println("adding other line"); 
+		System.out.println("El cambio lo detecta ambos pero solo lo subo en 1");
    
    }
 }
